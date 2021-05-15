@@ -1,28 +1,36 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
+      "image": "https://i.imgur.com/0tCn4C6.png",
+      "name": "Plate of Spaghetti",
+      "price": "54.23,89",
+      "description": "A plate of spaghetti",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "image": "https://i.imgur.com/0tCn4C6.png",
+      "name": "Prato Al Gili Vilares",
+      "price": "989.932.832,99",
+      "description": "A plate of Gil Vilares",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": false,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "image": "https://i.imgur.com/0tCn4C6.png",
+      "name": "Plate number 3",
+      "price": "323.232,89",
+      "description": "Plate",
+      "available": true,
+      "id": 3
+    },
+    {
+      "image": "https://i.imgur.com/0tCn4C6.png",
+      "name": "New Italian Plate",
+      "price": "38.87",
+      "description": "Greatest italian plate",
+      "available": true,
+      "id": 4
     }
   ]
 }

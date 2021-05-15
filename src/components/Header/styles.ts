@@ -1,9 +1,8 @@
-import styled from 'styled-components';
+import styled from 'styled-components'
 
 export const Container = styled.div`
-  background: #c72828;
+  background: #ac9362;
   padding: 30px 0;
-
   header {
     width: 1280px;
     margin: 0 auto;
@@ -11,7 +10,6 @@ export const Container = styled.div`
     display: flex;
     align-items: center;
     justify-content: space-between;
-
     nav {
       div {
         button {
@@ -20,15 +18,12 @@ export const Container = styled.div`
           border: 0;
           background: #39b100;
           color: #fff;
-
           display: flex;
           flex-direction: row;
           align-items: center;
-
           .text {
             padding: 16px 24px;
           }
-
           .icon {
             display: flex;
             padding: 16px 16px;
@@ -40,4 +35,4 @@ export const Container = styled.div`
       }
     }
   }
-`;
+`
